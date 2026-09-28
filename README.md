@@ -4,7 +4,6 @@
 [![Tests](https://img.shields.io/badge/Tests-8%20Passed-brightgreen.svg)](test_engine.py)
 [![Throughput](https://img.shields.io/badge/Throughput-~500k%2B%20ops%2Fsec-success.svg)](#benchmark-performance-summary)
 [![Latency](https://img.shields.io/badge/p50%20Latency-1.10%20%C2%B5s-blueviolet.svg)](#benchmark-performance-summary)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A high-performance, deterministic **Limit Order Book (LOB) Matching Engine and Level 2 Market Data Gateway** implemented with systems rigor, memory efficiency, and zero-allocation hot paths. 
 
